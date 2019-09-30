@@ -1,7 +1,7 @@
 {
-  "name": "react-native-dev-menu",
+  "name": "@yellowexpress/react-native-dev-menu",
   "description": "Add custom items to the React Native dev menu",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "main": "index.js",
   "repository": "https://github.com/zoontek/react-native-dev-menu.git",
   "author": "Mathieu Acthernoene <zoontek@gmail.com>",
@@ -28,7 +28,7 @@
     ]
   },
   "peerDependencies": {
-    "react-native": ">=0.60.0"
+    "react-native": ">=0.61.0"
   },
   "devDependencies": {
     "flow-bin": "0.98.0",
